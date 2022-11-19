@@ -23,6 +23,6 @@ This class will convert a text file into excel spreadsheet.
 
 **Sample Output:**
 
-![ Sample Output Image](https://github.com/HARINAVEENKUMAR/TextToExcel/blob/ea1955bc38c4f6739a7d1af625c97aa6671b13e6/resources/Sample%20Output.png)
+![ Sample Output Image](https://github.com/HARINAVEENKUMAR/TextToExcel/blob/a1a2ef312c524c91c39c8db7f740ed9617d73a81/resources/Sample%20Output.png)
 
 
